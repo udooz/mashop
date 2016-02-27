@@ -1,0 +1,7 @@
+{
+  "generator-react-webpack": {
+    "appName": "mashop",
+    "style": "scss",
+    "postcss": true
+  }
+}
